@@ -1,0 +1,4 @@
+{
+    "name": "nodejs-service",
+    "main": "server.js"
+}
